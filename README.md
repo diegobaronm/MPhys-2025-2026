@@ -28,3 +28,7 @@ We will explore how ML techniques can benefit the calibration of jet-flavour tag
 - [HyPER](https://github.com/tzuhanchang/HyPER/tree/main): The reconstruction algorithm we want to try.
 - Quick install FastFrames, [here](https://gitlab.cern.ch/dbaronmo/fastfastframessetup).
 - [This code](https://gitlab.cern.ch/dbaronmo/atlastohyper) holds the workflow we used to train the ttbar all-hadronic and single-lepton final states.
+
+## Project outline
+
+- [Week 1](Week1.md)
